@@ -1,0 +1,33 @@
+//////ITEMS//////
+
+//Creative Tabs
+
+itemGroup.blocks_tab=TME Blocks
+itemGroup.items_tab=TME Items
+
+//Ore Chunks
+item.chunk_aluminum.name=Chunk of Aluminum Ore
+item.chunk_tin.name=Chunk of Tin Ore
+item.chunk_copper.name=Chunk of Copper Ore
+item.chunk_iron.name=Chunk of Iron Ore
+item.chunk_silver.name=Chunk of Silver Ore
+item.chunk_gold.name=Chunk of Gold Ore
+item.chunk_redstone.name=Chunk of Redstone Ore
+item.chunk_carbon.name=Chunk of Chunk of Carbon
+item.chunk_ancient_slime.name=Chunk of Ancient Slime Ore
+item.chunk_dark_iron.name=Chunk of Dark Iron Ore
+item.chunk_mysterium.name=Chunk of Mysterium Ore
+item.chunk_demonite.name=Chunk of Demonite Ore
+item.chunk_mythril.name=Chunk of Mythril Ore
+item.chunk_solarium.name=Chunk of Solarium Ore
+item.chunk_lunarium.name=Chunk of Lunarium Ore
+item.chunk_molten.name=Chunk of Molten Ore
+item.chunk_fossil_stone.name=Unidentified Fossil
+item.chunk_salt.name=Chunk of Salt Ore
+item.chunk_jade.name=Jade
+
+
+//////BLOCKS//////
+
+//Ore Blocks
+tile.ore_copper.name=Copper Ore
