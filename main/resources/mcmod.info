@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dme",
+  "name": "Dustin's Minecraft Expansion",
+  "description": "NEEDS DESCRIPTION",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dustin"],
+  "credits": "Dustin",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
